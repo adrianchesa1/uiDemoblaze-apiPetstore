@@ -11,7 +11,6 @@ La tercera prueba "Agregar laptop al carrito en DemoBlaze" hace clic en la opci�
 
 Para ejecutar estas pruebas, asegúrese de tener Cypress instalado y ejecute el archivo que contiene estas pruebas en su IDE de preferencia.
 
-Este código realiza tres pruebas de API para una tienda de mascotas usando Cypress y JavaScript. Aquí está el Readme que describe lo que hace cada prueba:
 
 Pruebas de API de Pet Store
 Este conjunto de pruebas se centra en la API de la tienda de mascotas. Asegúrate de tener una conexión a Internet estable antes de ejecutar estas pruebas.
